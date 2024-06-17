@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Compose Submission App</string>
+    <string name="app_title">Toserba App</string>
+    <string name="home_page">Home</string>
+    <string name="cart_page">Cart</string>
+    <string name="about_page">About</string>
+    <string name="about_name">Okky Pratama</string>
+    <string name="about_email">a149dsx1730@bangkit.academy</string>
+    <string name="minus_symbol">-</string>
+    <string name="plus_symbol">+</string>
+    <string name="back">Back</string>
+    <string name="price">Rp %d,00</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d,00</string>
+    <string name="dummy_txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sagittis lectus id risus lacinia sollicitudin. Nam scelerisque porttitor ullamcorper. Quisque laoreet egestas pretium. Vestibulum eleifend, ipsum ac luctus fermentum, lectus felis porttitor tortor, vitae condimentum sapien libero id tellus.</string>
+    <string name="total_order">Total pesanan : Rp %d,00</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="share_message">Pemesanan berhasil!</string>
+    <string name="order">Product Order</string>
+    <string name="search_product">Cari produk</string>
+
+
+</resources>
